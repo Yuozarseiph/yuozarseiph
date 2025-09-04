@@ -57,7 +57,7 @@ My main portfolio and resume site, where all my projects and experience are show
 ## 📫 Contact Me
 
 - 📧 Email: [yousefshakerdev@gmail.com](mailto:yousefshakerdev@gmail.com)  
-- 💼 LinkedIn: *(add your profile link)*  
+- 💼 LinkedIn: [linkedin.com/in/yousef-shaker-ba4420338](https://www.linkedin.com/in/yousef-shaker-ba4420338)  
 - 🐙 GitHub: [Yuozarseiph](https://github.com/Yuozarseiph)  
 - 🌐 Portfolio: [yuozarseiph.top](https://yuozarseiph.top)  
 
