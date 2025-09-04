@@ -22,22 +22,22 @@ Apple-inspired landing page with sleek animations and a clean responsive layout.
 
 ---
 
-### 🛒 Online Shop (React Store App)
-Responsive online store with product grid, cart persistence (localStorage), and modern UI.  
+### 🛒 Online Shop
+Responsive React store with product grid, cart persistence, and modern UI.  
 - 🔗 [Live Demo](https://online-shop-mauve-seven.vercel.app)  
 - 🛠️ Stack: React, Vite, Context API  
 
 ---
 
-### 📄 Resume Website
-A simple resume website to showcase my skills & background.  
-- 🔗 [Live Demo](#) *(add your link if hosted)*  
-- 🛠️ Stack: HTML, CSS, JavaScript  
+### 📝 Portfolio + Resume
+My main portfolio and resume site, where all my projects and experience are showcased.  
+- 🔗 [yuozarseiph.top](https://yuozarseiph.top)  
+- 🛠️ Stack: React, Vite, Tailwind  
 
 ---
 
 ## 🚧 Upcoming Projects
-- 🪐 **3D Saturn Resume** — interactive Three.js resume in solar system  
+- 🪐 **3D Saturn Resume** — interactive Three.js resume in the solar system  
 - 🛠️ **Aras Service** — company website (after payment gateway integration)  
 
 ---
