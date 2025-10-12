@@ -43,20 +43,14 @@ My main portfolio where I showcase projects and experience.
 
 ---
 
-## 🚧 In Progress
-- 🛠️ **Aras Service** — company website (payment gateway integration in progress)
-
----
-
 ## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-3D-000000?logo=three.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-4-646CFF?logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-3-38B2AC?logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-4-38B2AC?logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?logo=node.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-Development-21759B?logo=wordpress&logoColor=white)
 
 ---
 
