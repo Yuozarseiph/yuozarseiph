@@ -1,74 +1,69 @@
 # Hi, I'm Yousef 👋
 
-🚀 **Frontend Developer** — React, Three.js, WordPress  
-🎨 Building modern, fast, and responsive web experiences  
-📍 Ardakan, Yazd, Iran — Open to collaborations worldwide 🌍
-
+🚀 **Frontend Developer** — React, TypeScript, Next.js, Three.js  
+🎨 Building modern, fast, and privacy-focused web experiences  
+📍 Ardakan, Yazd, Iran — Open to collaborations worldwide
 
 ---
 
-### 🏢 XenonQode
-Independent software brand focused on offline-first, no-account, privacy-respecting web tools and games.  
-🔗 **Official Website:** [xenonqode.ir](https://xenonqode.ir)  
-🛠️ **Stack:** React, TypeScript, Tailwind, Next.js, Vite  
+## 🏢 Brand
+
+### XenonQode
+Independent software brand focused on **offline-first**, **no-account**, **privacy-respecting** web tools and games.  
+🔗 [xenonqode.ir](https://xenonqode.ir)  
+🛠️ React, TypeScript, Tailwind, Next.js, Vite
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🪐 3D Saturn Resume — *New*
-An interactive Three.js resume inside a solar-system UI. Click **Saturn** to explore skills, projects, and experience.  
-- 🔗 **Live Demo:** [3d.yuozarseiph.top](https://3d.yuozarseiph.top)  
-- 🛠️ **Stack:** React, Three.js, @react-three/fiber, @react-three/drei
+### 🪐 3D Saturn Resume
+Interactive Three.js resume inside a solar-system UI. Click on Saturn to explore skills and projects.  
+🔗 [Live Demo](https://3d.yuozarseiph.top)  
+🛠️ React, Three.js, @react-three/fiber, @react-three/drei
 
----
-
-### 🪙 MiniGame Emerald Forge
-A fully offline idle/incremental game with resource mining, tool crafting, pet upgrades, Prestige, and endless Stages.
-- 🔗 **Live Demo:** [minigame.yuozarseiph.top](https://minigame.yuozarseiph.top)  
-- 🛠️ **Stack:** React, Vite, Tailwind, WeatherAPI
-
----
+### 🪙 Emerald Forge (Minigame)
+Fully offline idle/incremental game — mine, craft, upgrade pets, Prestige, endless Stages. No account, no ads, no microtransactions.  
+🔗 [Play Now](https://minigame.yuozarseiph.top)  
+🛠️ React, Vite, Tailwind, IndexedDB, localStorage
 
 ### 🍏 Apple Home
-Apple-inspired landing with sleek animations and a clean layout.  
-- 🔗 **Live Demo:** [apple-home-uyq6.vercel.app](https://apple-home-uyq6.vercel.app)  
-- 🛠️ **Stack:** React, Tailwind CSS
-
----
+Apple‑inspired landing page with smooth animations and clean layout.  
+🔗 [Live Demo](https://apple-home-uyq6.vercel.app)  
+🛠️ React, Tailwind CSS
 
 ### 🛒 Online Shop
-Responsive store with product grid, cart persistence, and modern UI.  
-- 🔗 **Live Demo:** [online-shop-mauve-seven.vercel.app](https://online-shop-mauve-seven.vercel.app)  
-- 🛠️ **Stack:** React, Vite, Context API
+Modern online store with product grid, persistent cart, and responsive UI.  
+🔗 [Live Demo](https://online-shop-mauve-seven.vercel.app)  
+🛠️ React, Vite, Context API
 
----
-
-### 📝 Portfolio + Resume
-My main portfolio where I showcase projects and experience.  
-- 🔗 **Site:** [yuozarseiph.top](https://yuozarseiph.top)  
-- 🛠️ **Stack:** React, Vite, Tailwind
+### 🌐 Portfolio
+My main portfolio showcasing projects and development journey.  
+🔗 [yuozarseiph.top](https://yuozarseiph.top)  
+🛠️ React, Vite, Tailwind
 
 ---
 
 ## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-15-000000?logo=next.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-3D-000000?logo=three.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-4-38B2AC?logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Learning-339933?logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-20-339933?logo=node.js&logoColor=white)
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: [yousefshakerdev@gmail.com](mailto:yousefshakerdev@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/yousef-shaker-ba4420338](https://www.linkedin.com/in/yousef-shaker-ba4420338)  
-- 🐙 GitHub: [Yuozarseiph](https://github.com/Yuozarseiph)  
-- 🌐 Portfolio: [yuozarseiph.top](https://yuozarseiph.top)
+- 📧 [yousefshakerdev@gmail.com](mailto:yousefshakerdev@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yousef-shaker-ba4420338)
+- 🐙 [GitHub](https://github.com/Yuozarseiph)
+- 🌐 [yuozarseiph.top](https://yuozarseiph.top)
 
 ---
 
-⭐️ *Check out my projects and feel free to connect!*  
+⭐️ *Check out my projects — feel free to connect!*
