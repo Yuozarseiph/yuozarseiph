@@ -2,16 +2,35 @@
 
 🚀 **Frontend Developer** — React, TypeScript, Next.js, Three.js  
 🎨 Building modern, fast, and privacy-focused web experiences  
-📍 Ardakan, Yazd, Iran — Open to collaborations worldwide
+📍 Ardakan, Yazd, Iran — Open to collaborations worldwide  
+
+**Founder of XenonQode** — a luxury software brand focused on excellence, precision, and privacy.
 
 ---
 
-## 🏢 Brand
+## 👑 About XenonQode
 
-### XenonQode
-Independent software brand focused on **offline-first**, **no-account**, **privacy-respecting** web tools and games.  
-🔗 [xenonqode.ir](https://xenonqode.ir)  
-🛠️ React, TypeScript, Tailwind, Next.js, Vite
+**Excellence in every line.**  
+We build software that matters. Nothing more, nothing less.
+
+| 📅 2025 Founded | 👥 8K+ Users | ⏱️ 99.9% Uptime | 🛡️ 24/7 Support |
+|----------------|--------------|------------------|------------------|
+
+### Our Values
+- **Performance** — Built for speed
+- **Precision** — Every detail matters
+- **Security** — Trust by design
+- **Excellence** — Never compromise
+
+### Our Philosophy
+**Quality over quantity.**  
+We don't chase trends. We build tools that last, that solve real problems, that respect your time and intelligence.
+
+**Simplicity is sophistication.**  
+Every feature earns its place. Every line of code serves a purpose. No bloat, no complexity for complexity's sake.
+
+**Privacy by default.**  
+Your data is yours. We build tools that work for you, not against you. No tracking, no surveillance, no compromises.
 
 ---
 
