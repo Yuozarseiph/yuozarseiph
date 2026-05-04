@@ -17,6 +17,11 @@ Independent software brand focused on **offline-first**, **no-account**, **priva
 
 ## 🔥 Featured Projects
 
+### 🛠️ ToolsManager
+A complete suite of **40+ offline web tools** — PDF editor, image compressor, video/audio processing, Excel viewer, code editor, QR generator, math tools, and more. No account, no ads, no server — 100% local processing.  
+🔗 [toolsmanager.yuozarseiph.top](https://toolsmanager.yuozarseiph.top)  
+🛠️ React, TypeScript, Next.js, Tailwind, FFmpeg.wasm, PDF.js, SheetJS, Monaco Editor
+
 ### 🪐 3D Saturn Resume
 Interactive Three.js resume inside a solar-system UI. Click on Saturn to explore skills and projects.  
 🔗 [Live Demo](https://3d.yuozarseiph.top)  
