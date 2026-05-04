@@ -4,6 +4,14 @@
 🎨 Building modern, fast, and responsive web experiences  
 📍 Ardakan, Yazd, Iran — Open to collaborations worldwide 🌍
 
+
+---
+
+### 🏢 XenonQode
+Independent software brand focused on offline-first, no-account, privacy-respecting web tools and games.  
+🔗 **Official Website:** [xenonqode.ir](https://xenonqode.ir)  
+🛠️ **Stack:** React, TypeScript, Tailwind, Next.js, Vite  
+
 ---
 
 ## 🔥 Featured Projects
