@@ -15,9 +15,9 @@ An interactive Three.js resume inside a solar-system UI. Click **Saturn** to exp
 
 ---
 
-### 🌦️ Weather App
-A modern forecast app with animated backgrounds, clean UI, and full responsiveness.  
-- 🔗 **Live Demo:** [weather.yuozarseiph.top](https://weather.yuozarseiph.top)  
+### 🪙 MiniGame Emerald Forge
+A fully offline idle/incremental game with resource mining, tool crafting, pet upgrades, Prestige, and endless Stages.
+- 🔗 **Live Demo:** [minigame.yuozarseiph.top](https://minigame.yuozarseiph.top)  
 - 🛠️ **Stack:** React, Vite, Tailwind, WeatherAPI
 
 ---
